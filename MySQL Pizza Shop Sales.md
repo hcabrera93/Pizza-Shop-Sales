@@ -1,4 +1,4 @@
-##### My name is Hector Cabrera and I will be clenaing and analzying the data set called "Pizza Place Sales" courtesy of Maven Anlaytics. In this project I will be answering a few quesitions which are:
+##### My name is Hector Cabrera and I will be cleaning and analyzing the data set called "Pizza Place Sales" courtesy of Maven Analytics. In this project I will be answering a few questions which are:
 
 ##### 1. What is the most popular item on the menu? Which item is the least popular?
 ##### 2. Average pizza order (how many pizza pies do most people buy per order?)
